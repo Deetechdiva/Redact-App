@@ -1,0 +1,1 @@
+This app helps people to safely share content on social media bt scrambling portion of the text they don't want people to see.
